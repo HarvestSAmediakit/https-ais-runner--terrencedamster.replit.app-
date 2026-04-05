@@ -1,0 +1,5 @@
+{
+  "name": "HarvestCast",
+  "description": "A NotebookLM-style Deep Dive app for Harvest SA magazine. Upload PDFs to analyze articles and advertisers, then join a live conversation with hosts Thandi and Njabulo.",
+  "requestFramePermissions": ["microphone"]
+}
